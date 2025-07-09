@@ -1,0 +1,79 @@
+.navbar{
+    background-color: #208b3a;
+    position: sticky;
+    
+
+}
+.navbar-M{
+    color: white;
+  
+}
+.Namee{
+    color: white;
+   
+}
+.btn1{
+    border-radius: 10px;
+    background-color: lightyellow;
+  font-size: 15px;
+  margin-left: -20px;
+}
+.form{
+    width: 300px;
+    border-radius: 10px;    
+}
+.sidebar{
+    /* border: 1px solid black; */
+  width: 200px;
+  height: 700px;
+  /* margin-left: 1px; */
+background-color:#208b3a;
+
+  padding: 20px;
+}
+.sidebar1{
+      background-color: #208b3a;
+
+}
+.list-group-item{
+    margin-bottom: 30px;
+    font-weight: bolder;
+}
+.card-group{
+    margin-left: 240px;
+    margin-top: -600px;
+    gap: 20px;
+}
+.card{
+    border: 1px solid black;
+    border-radius: 20px;
+    box-shadow: 2px 2px 100px 1px black;
+  
+}
+.card:hover{
+    transform: scale(0.9);
+    transition: 1s;
+}
+.card-title{
+    font-size: large;
+    font-weight: bolder;
+    margin-left: 100px;
+}
+.card-text{
+    font-size: larger;
+    font-weight: bold;
+    margin-left: 130px;
+    margin-top: -50px;
+}
+.btn{
+    margin-left: 100px;
+}
+.card-img-top{
+    margin-top: 10px;
+     height: 200px;
+     width:200px;
+}
+.table{
+    margin-left: 200px;
+    margin-top: 20px;
+}
